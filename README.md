@@ -1,4 +1,4 @@
-### Hi there 👋
+### 프론트엔드 주니어 개발자 👋
 
 <!--
 **Lovelymin0710/Lovelymin0710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
